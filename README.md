@@ -5,8 +5,10 @@
 <img src="https://img.shields.io/badge/-%E7%94%B5%E5%BD%B1-red" />
 <img src="https://img.shields.io/badge/-%E5%81%A5%E8%BA%AB-blue" />
 <img src="https://img.shields.io/badge/-%E6%A3%8B%E7%89%8C-lightgrey" />
+  <a href="https://www.zhihu.com/column/c_1302591122619637760"><img src="https://img.shields.io/badge/-%E5%8D%9A%E5%AE%A2-blueviolet" /></a>
 <img src="https://img.shields.io/badge/-%E7%8C%AB%E7%8B%97%E5%8F%8C%E5%85%A8%20-orange" /> 
 <img src="https://visitor-badge.glitch.me/badge?page_id=xingyao500.README" alt="visitor badge"/>
+
 
 </div>
 <br />
